@@ -1,0 +1,180 @@
+\author{H.~Agakishiev$^{17}$, M.~M.~Aggarwal$^{29}$, Z.~Ahammed$^{21}$, 
+A.~V.~Alakhverdyants$^{17}$, I.~Alekseev~~$^{15}$, J.~Alford$^{18}$, 
+B.~D.~Anderson$^{18}$, C.~D.~Anson$^{27}$, D.~Arkhipkin$^{2}$, 
+G.~S.~Averichev$^{17}$, J.~Balewski$^{22}$, D.~R.~Beavis$^{2}$, 
+N.~K.~Behera$^{13}$, R.~Bellwied$^{43}$, M.~J.~Betancourt$^{22}$, 
+R.~R.~Betts$^{7}$, A.~Bhasin$^{16}$, A.~K.~Bhati$^{29}$, 
+H.~Bichsel$^{49}$, J.~Bielcik$^{9}$, J.~Bielcikova$^{10}$, 
+B.~Biritz$^{5}$, L.~C.~Bland$^{2}$, I.~G.~Bordyuzhin$^{15}$, 
+W.~Borowski$^{40}$, J.~Bouchet$^{18}$, E.~Braidot$^{26}$, 
+A.~V.~Brandin$^{25}$, A.~Bridgeman$^{1}$, S.~G.~Brovko$^{4}$, 
+E.~Bruna$^{52}$, S.~Bueltmann$^{28}$, I.~Bunzarov$^{17}$, 
+T.~P.~Burton$^{2}$, X.~Z.~Cai$^{39}$, H.~Caines$^{52}$, 
+M.~Calderon$^{4}$, D.~Cebra$^{4}$, R.~Cendejas$^{5}$, 
+M.~C.~Cervantes$^{41}$, Z.~Chajecki$^{27}$, P.~Chaloupka$^{10}$, 
+S.~Chattopadhyay$^{47}$, H.~F.~Chen$^{37}$, J.~H.~Chen$^{39}$, 
+J.~Y.~Chen$^{51}$, L.~Chen$^{51}$, J.~Cheng$^{44}$, 
+M.~Cherney$^{8}$, A.~Chikanian$^{52}$, K.~E.~Choi$^{33}$, 
+W.~Christie$^{2}$, P.~Chung$^{10}$, M.~J.~M.~Codrington$^{41}$, 
+R.~Corliss$^{22}$, J.~G.~Cramer$^{49}$, H.~J.~Crawford$^{3}$, 
+S.~Dash$^{12}$, A.~Davila~Leyva$^{42}$, L.~C.~De~Silva$^{43}$, 
+R.~R.~Debbe$^{2}$, T.~G.~Dedovich$^{17}$, A.~A.~Derevschikov$^{31}$, 
+R.~Derradi~de~Souza$^{6}$, L.~Didenko$^{2}$, P.~Djawotho$^{41}$, 
+S.~M.~Dogra$^{16}$, X.~Dong$^{21}$, J.~L.~Drachenberg$^{41}$, 
+J.~E.~Draper$^{4}$, J.~C.~Dunlop$^{2}$, L.~G.~Efimov$^{17}$, 
+M.~Elnimr$^{50}$, J.~Engelage$^{3}$, G.~Eppley$^{35}$, 
+M.~Estienne$^{40}$, L.~Eun$^{30}$, O.~Evdokimov$^{7}$, 
+R.~Fatemi$^{19}$, J.~Fedorisin$^{17}$, R.~G.~Fersch$^{19}$, 
+P.~Filip$^{17}$, E.~Finch$^{52}$, V.~Fine$^{2}$, 
+Y.~Fisyak$^{2}$, C.~A.~Gagliardi$^{41}$, D.~R.~Gangadharan$^{5}$, 
+F.~Geurts$^{35}$, P.~Ghosh$^{47}$, Y.~N.~Gorbunov$^{8}$, 
+A.~Gordon$^{2}$, O.~G.~Grebenyuk$^{21}$, D.~Grosnick$^{46}$, 
+S.~M.~Guertin$^{5}$, A.~Gupta$^{16}$, W.~Guryn$^{2}$, 
+B.~Haag$^{4}$, O.~Hajkova$^{9}$, A.~Hamed$^{41}$, 
+L-X.~Han$^{39}$, J.~W.~Harris$^{52}$, J.~P.~Hays-Wehle$^{22}$, 
+M.~Heinz$^{52}$, S.~Heppelmann$^{30}$, A.~Hirsch$^{32}$, 
+E.~Hjort$^{21}$, G.~W.~Hoffmann$^{42}$, D.~J.~Hofman$^{7}$, 
+B.~Huang$^{37}$, H.~Z.~Huang$^{5}$, T.~J.~Humanic$^{27}$, 
+L.~Huo$^{41}$, G.~Igo$^{5}$, P.~Jacobs$^{21}$, 
+W.~W.~Jacobs$^{14}$, C.~Jena$^{12}$, F.~Jin$^{39}$, 
+J.~Joseph$^{18}$, E.~G.~Judd$^{3}$, S.~Kabana$^{40}$, 
+K.~Kang$^{44}$, J.~Kapitan$^{10}$, K.~Kauder$^{7}$, 
+H.~W.~Ke$^{51}$, D.~Keane$^{18}$, A.~Kechechyan$^{17}$, 
+D.~Kettler$^{49}$, D.~P.~Kikola$^{32}$, J.~Kiryluk$^{21}$, 
+A.~Kisiel$^{48}$, V.~Kizka$^{17}$, S.~R.~Klein$^{21}$, 
+A.~G.~Knospe$^{52}$, D.~D.~Koetke$^{46}$, T.~Kollegger$^{11}$, 
+J.~Konzer$^{32}$, I.~Koralt$^{28}$, L.~Koroleva$^{15}$, 
+W.~Korsch$^{19}$, L.~Kotchenda$^{25}$, V.~Kouchpil$^{10}$, 
+P.~Kravtsov$^{25}$, K.~Krueger$^{1}$, M.~Krus$^{9}$, 
+L.~Kumar$^{18}$, P.~Kurnadi$^{5}$, M.~A.~C.~Lamont$^{2}$, 
+J.~M.~Landgraf$^{2}$, S.~LaPointe$^{50}$, J.~Lauret$^{2}$, 
+A.~Lebedev$^{2}$, R.~Lednicky$^{17}$, J.~H.~Lee$^{2}$, 
+W.~Leight$^{22}$, M.~J.~LeVine$^{2}$, C.~Li$^{37}$, 
+L.~Li$^{42}$, N.~Li$^{51}$, W.~Li$^{39}$, 
+X.~Li$^{32}$, X.~Li$^{38}$, Y.~Li$^{44}$, 
+Z.~M.~Li$^{51}$, M.~A.~Lisa$^{27}$, F.~Liu$^{51}$, 
+H.~Liu$^{4}$, J.~Liu$^{35}$, T.~Ljubicic$^{2}$, 
+W.~J.~Llope$^{35}$, R.~S.~Longacre$^{2}$, W.~A.~Love$^{2}$, 
+Y.~Lu$^{37}$, E.~V.~Lukashov$^{25}$, X.~Luo$^{37}$, 
+G.~L.~Ma$^{39}$, Y.~G.~Ma$^{39}$, D.~P.~Mahapatra$^{12}$, 
+R.~Majka$^{52}$, O.~I.~Mall$^{4}$, L.~K.~Mangotra$^{16}$, 
+R.~Manweiler$^{46}$, S.~Margetis$^{18}$, C.~Markert$^{42}$, 
+H.~Masui$^{21}$, H.~S.~Matis$^{21}$, Yu.~A.~Matulenko$^{31}$, 
+D.~McDonald$^{35}$, T.~S.~McShane$^{8}$, A.~Meschanin$^{31}$, 
+R.~Milner$^{22}$, N.~G.~Minaev$^{31}$, S.~Mioduszewski$^{41}$, 
+M.~K.~Mitrovski$^{2}$, Y.~Mohammed$^{41}$, B.~Mohanty$^{47}$, 
+M.~M.~Mondal$^{47}$, B.~Morozov$^{15}$, D.~A.~Morozov$^{31}$, 
+M.~G.~Munhoz$^{36}$, M.~K.~Mustafa$^{32}$, M.~Naglis$^{21}$, 
+B.~K.~Nandi$^{13}$, T.~K.~Nayak$^{47}$, P.~K.~Netrakanti$^{32}$, 
+L.~V.~Nogach$^{31}$, S.~B.~Nurushev$^{31}$, G.~Odyniec$^{21}$, 
+A.~Ogawa$^{2}$, K.~Oh$^{33}$, A.~Ohlson$^{52}$, 
+V.~Okorokov$^{25}$, E.~W.~Oldag$^{42}$, D.~Olson$^{21}$, 
+M.~Pachr$^{9}$, B.~S.~Page$^{14}$, S.~K.~Pal$^{47}$, 
+Y.~Pandit$^{18}$, Y.~Panebratsev$^{17}$, T.~Pawlak$^{48}$, 
+H.~Pei$^{7}$, T.~Peitzmann$^{26}$, C.~Perkins$^{3}$, 
+W.~Peryt$^{48}$, S.~C.~Phatak$^{12}$, P.~ Pile$^{2}$, 
+M.~Planinic$^{53}$, M.~A.~Ploskon$^{21}$, J.~Pluta$^{48}$, 
+D.~Plyku$^{28}$, N.~Poljak$^{53}$, J.~Porter$^{21}$, 
+A.~M.~Poskanzer$^{21}$, B.~V.~K.~S.~Potukuchi$^{16}$, C.~B.~Powell$^{21}$, 
+D.~Prindle$^{49}$, C.~Pruneau$^{50}$, N.~K.~Pruthi$^{29}$, 
+P.~R.~Pujahari$^{13}$, J.~Putschke$^{52}$, H.~Qiu$^{20}$, 
+R.~Raniwala$^{34}$, S.~Raniwala$^{34}$, R.~L.~Ray$^{42}$, 
+R.~Redwine$^{22}$, R.~Reed$^{4}$, H.~G.~Ritter$^{21}$, 
+J.~B.~Roberts$^{35}$, O.~V.~Rogachevskiy$^{17}$, J.~L.~Romero$^{4}$, 
+L.~Ruan$^{2}$, J.~Rusnak$^{10}$, N.~R.~Sahoo$^{47}$, 
+I.~Sakrejda$^{21}$, S.~Salur$^{4}$, J.~Sandweiss$^{52}$, 
+E.~Sangaline$^{4}$, A.~ Sarkar$^{13}$, J.~Schambach$^{42}$, 
+R.~P.~Scharenberg$^{32}$, A.~M.~Schmah$^{21}$, N.~Schmitz$^{23}$, 
+T.~R.~Schuster$^{11}$, J.~Seele$^{22}$, J.~Seger$^{8}$, 
+I.~Selyuzhenkov$^{14}$, P.~Seyboth$^{23}$, E.~Shahaliev$^{17}$, 
+M.~Shao$^{37}$, M.~Sharma$^{50}$, S.~S.~Shi$^{51}$, 
+Q.~Y.~Shou$^{39}$, E.~P.~Sichtermann$^{21}$, F.~Simon$^{23}$, 
+R.~N.~Singaraju$^{47}$, M.~J.~Skoby$^{32}$, N.~Smirnov$^{52}$, 
+P.~Sorensen$^{2}$, H.~M.~Spinka$^{1}$, B.~Srivastava$^{32}$, 
+T.~D.~S.~Stanislaus$^{46}$, D.~Staszak$^{5}$, S.~G.~Steadman$^{22}$, 
+J.~R.~Stevens$^{14}$, R.~Stock$^{11}$, M.~Strikhanov$^{25}$, 
+B.~Stringfellow$^{32}$, A.~A.~P.~Suaide$^{36}$, M.~C.~Suarez$^{7}$, 
+N.~L.~Subba$^{18}$, M.~Sumbera$^{10}$, X.~M.~Sun$^{21}$, 
+Y.~Sun$^{37}$, Z.~Sun$^{20}$, B.~Surrow$^{22}$, 
+D.~N.~Svirida$^{15}$, T.~J.~M.~Symons$^{21}$, A.~Szanto~de~Toledo$^{36}$, 
+J.~Takahashi$^{6}$, A.~H.~Tang$^{2}$, Z.~Tang$^{37}$, 
+L.~H.~Tarini$^{50}$, T.~Tarnowsky$^{24}$, D.~Thein$^{42}$, 
+J.~H.~Thomas$^{21}$, J.~Tian$^{39}$, A.~R.~Timmins$^{43}$, 
+D.~Tlusty$^{10}$, M.~Tokarev$^{17}$, T.~A.~Trainor$^{49}$, 
+S.~Trentalange$^{5}$, R.~E.~Tribble$^{41}$, P.~Tribedy$^{47}$, 
+O.~D.~Tsai$^{5}$, T.~Ullrich$^{2}$, D.~G.~Underwood$^{1}$, 
+G.~Van~Buren$^{2}$, G.~van~Nieuwenhuizen$^{22}$, J.~A.~Vanfossen,~Jr.$^{18}$, 
+R.~Varma$^{13}$, G.~M.~S.~Vasconcelos$^{6}$, A.~N.~Vasiliev$^{31}$, 
+F.~Videbaek$^{2}$, Y.~P.~Viyogi$^{47}$, S.~Vokal$^{17}$, 
+S.~A.~Voloshin$^{50}$, M.~Wada$^{42}$, M.~Walker$^{22}$, 
+F.~Wang$^{32}$, G.~Wang$^{5}$, H.~Wang$^{24}$, 
+J.~S.~Wang$^{20}$, Q.~Wang$^{32}$, X.~L.~Wang$^{37}$, 
+Y.~Wang$^{44}$, G.~Webb$^{19}$, J.~C.~Webb$^{2}$, 
+G.~D.~Westfall$^{24}$, C.~Whitten~Jr.$^{5}$, H.~Wieman$^{21}$, 
+S.~W.~Wissink$^{14}$, R.~Witt$^{45}$, W.~Witzke$^{19}$, 
+Y.~F.~Wu$^{51}$, Z.~Xiao$^{44}$, W.~Xie$^{32}$, 
+H.~Xu$^{20}$, N.~Xu$^{21}$, Q.~H.~Xu$^{38}$, 
+W.~Xu$^{5}$, Y.~Xu$^{37}$, Z.~Xu$^{2}$, 
+L.~Xue$^{39}$, Y.~Yang$^{20}$, Y.~Yang$^{51}$, 
+P.~Yepes$^{35}$, K.~Yip$^{2}$, I-K.~Yoo$^{33}$, 
+M.~Zawisza$^{48}$, H.~Zbroszczyk$^{48}$, W.~Zhan$^{20}$, 
+J.~B.~Zhang$^{51}$, S.~Zhang$^{39}$, W.~M.~Zhang$^{18}$, 
+X.~P.~Zhang$^{44}$, Y.~Zhang$^{21}$, Z.~P.~Zhang$^{37}$, 
+J.~Zhao$^{39}$, C.~Zhong$^{39}$, W.~Zhou$^{38}$, 
+X.~Zhu$^{44}$, Y.~H.~Zhu$^{39}$, R.~Zoulkarneev$^{17}$, 
+Y.~Zoulkarneeva$^{17}$ 
+\\ 
+\normalsize{$^{1}$Argonne National Laboratory, Argonne, Illinois 60439, USA}\\ 
+\normalsize{$^{2}$Brookhaven National Laboratory, Upton, New York 11973, USA}\\ 
+\normalsize{$^{3}$University of California, Berkeley, California 94720, USA}\\ 
+\normalsize{$^{4}$University of California, Davis, California 95616, USA}\\ 
+\normalsize{$^{5}$University of California, Los Angeles, California 90095, USA}\\ 
+\normalsize{$^{6}$Universidade Estadual de Campinas, Sao Paulo, Brazil}\\ 
+\normalsize{$^{7}$University of Illinois at Chicago, Chicago, Illinois 60607, USA}\\ 
+\normalsize{$^{8}$Creighton University, Omaha, Nebraska 68178, USA}\\ 
+\normalsize{$^{9}$Czech Technical University in Prague, FNSPE, Prague, 115 19, Czech Republic}\\ 
+\normalsize{$^{10}$Nuclear Physics Institute AS CR, 250 68 \v{R}e\v{z}/Prague, Czech Republic}\\ 
+\normalsize{$^{11}$University of Frankfurt, Frankfurt, Germany}\\ 
+\normalsize{$^{12}$Institute of Physics, Bhubaneswar 751005, India}\\ 
+\normalsize{$^{13}$Indian Institute of Technology, Mumbai, India}\\ 
+\normalsize{$^{14}$Indiana University, Bloomington, Indiana 47408, USA}\\ 
+\normalsize{$^{15}$Alikhanov Institute for Theoretical and Experimental Physics, Moscow, Russia}\\ 
+\normalsize{$^{16}$University of Jammu, Jammu 180001, India}\\ 
+\normalsize{$^{17}$Joint Institute for Nuclear Research, Dubna, 141 980, Russia}\\ 
+\normalsize{$^{18}$Kent State University, Kent, Ohio 44242, USA}\\ 
+\normalsize{$^{19}$University of Kentucky, Lexington, Kentucky, 40506-0055, USA}\\ 
+\normalsize{$^{20}$Institute of Modern Physics, Lanzhou, China}\\ 
+\normalsize{$^{21}$Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA}\\ 
+\normalsize{$^{22}$Massachusetts Institute of Technology, Cambridge, MA 02139-4307, USA}\\ 
+\normalsize{$^{23}$Max-Planck-Institut f\"ur Physik, Munich, Germany}\\ 
+\normalsize{$^{24}$Michigan State University, East Lansing, Michigan 48824, USA}\\ 
+\normalsize{$^{25}$Moscow Engineering Physics Institute, Moscow Russia}\\ 
+\normalsize{$^{26}$NIKHEF and Utrecht University, Amsterdam, The Netherlands}\\ 
+\normalsize{$^{27}$Ohio State University, Columbus, Ohio 43210, USA}\\ 
+\normalsize{$^{28}$Old Dominion University, Norfolk, VA, 23529, USA}\\ 
+\normalsize{$^{29}$Panjab University, Chandigarh 160014, India}\\ 
+\normalsize{$^{30}$Pennsylvania State University, University Park, Pennsylvania 16802, USA}\\ 
+\normalsize{$^{31}$Institute of High Energy Physics, Protvino, Russia}\\ 
+\normalsize{$^{32}$Purdue University, West Lafayette, Indiana 47907, USA}\\ 
+\normalsize{$^{33}$Pusan National University, Pusan, Republic of Korea}\\ 
+\normalsize{$^{34}$University of Rajasthan, Jaipur 302004, India}\\ 
+\normalsize{$^{35}$Rice University, Houston, Texas 77251, USA}\\ 
+\normalsize{$^{36}$Universidade de Sao Paulo, Sao Paulo, Brazil}\\ 
+\normalsize{$^{37}$University of Science \& Technology of China, Hefei 230026, China}\\ 
+\normalsize{$^{38}$Shandong University, Jinan, Shandong 250100, China}\\ 
+\normalsize{$^{39}$Shanghai Institute of Applied Physics, Shanghai 201800, China}\\ 
+\normalsize{$^{40}$SUBATECH, Nantes, France}\\ 
+\normalsize{$^{41}$Texas A\&M University, College Station, Texas 77843, USA}\\ 
+\normalsize{$^{42}$University of Texas, Austin, Texas 78712, USA}\\ 
+\normalsize{$^{43}$University of Houston, Houston, TX, 77204, USA}\\ 
+\normalsize{$^{44}$Tsinghua University, Beijing 100084, China}\\ 
+\normalsize{$^{45}$United States Naval Academy, Annapolis, MD 21402, USA}\\ 
+\normalsize{$^{46}$Valparaiso University, Valparaiso, Indiana 46383, USA}\\ 
+\normalsize{$^{47}$Variable Energy Cyclotron Centre, Kolkata 700064, India}\\ 
+\normalsize{$^{48}$Warsaw University of Technology, Warsaw, Poland}\\ 
+\normalsize{$^{49}$University of Washington, Seattle, Washington 98195, USA}\\ 
+\normalsize{$^{50}$Wayne State University, Detroit, Michigan 48201, USA}\\ 
+\normalsize{$^{51}$Institute of Particle Physics, CCNU (HZNU), Wuhan 430079, China}\\ 
+\normalsize{$^{52}$Yale University, New Haven, Connecticut 06520, USA}\\ 
+\normalsize{$^{53}$University of Zagreb, Zagreb, HR-10002, Croatia} 
+}
